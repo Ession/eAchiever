@@ -1,0 +1,7 @@
+## Interface: 50001
+## Version: 5.0.1
+## Title: eAchiever
+## Notes: Takes a screenshot when you earn a achievement.
+## Author: Ession
+
+eAchiever.lua
