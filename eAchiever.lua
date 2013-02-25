@@ -4,7 +4,7 @@
 -- 
 --    Description:  Takes a screenshot when you earn a achievement.
 -- 
---        Version:  5.0.1
+--        Version:  5.2.1
 -- 
 --         Author:  Mathias Jost (mail@mathiasjost.com)
 -- 
